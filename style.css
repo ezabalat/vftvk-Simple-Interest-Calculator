@@ -34,6 +34,11 @@ table td
     padding-bottom: 10px;
 }
 
+p
+{
+    text-align:center;
+}
+
 #compute
 {
     margin-bottom: 10px;
